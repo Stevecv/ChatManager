@@ -1,0 +1,5 @@
+name: EquiscraftChatFormatter
+version: 1.0.0-0
+main: com.equiscraft.chatformatter.Main
+description: Equiscraft chat formatting plugin
+api-version: 1.13
